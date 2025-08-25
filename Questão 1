@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+  </body>
+</html><!DOCTYPE html>
+<html>
+  <head>
+ 
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+  </body>
+</html><!DOCTYPE html>
+<html>
+  <head>
+    <title>Bom dia!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1 class="title"> </h1>
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+  </body>
+</html><!DOCTYPE html>
+<html>
+  <head>
+ 
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+   
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+  </body>
+</html><!DOCTYPE html>
+<html>
+  <head>
+    <title>Olá!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1 class="title">Olá Aluno! </h1>
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+  </body>
+</html><!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horários de Aulas</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Horários de Aulas</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Disciplina</th>
+                <th>Professor</th>
+                <th>Horário</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Matemática</td>
+                <td>Prof. Guilherme</td>
+                <td>08:00 - 09:30</td>
+            </tr>
+            <tr>
+                <td>Português</td>
+                <td>Profa. Kátia</td>
+                <td>09:40 - 11:10</td>
+            </tr>
+            <tr>
+                <td>História</td>
+                <td>Prof. Bezerra</td>
+                <td>13:00 - 14:30</td>
+            </tr>
+            <tr>
+                <td>Química</td>
+                <td>Profa. Simone</td>
+                <td>14:40 - 16:10</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
